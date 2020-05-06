@@ -1,0 +1,10 @@
+backend/env
+backend/migrations
+backend/config.py
+backend/__pycache__
+backend/Lib
+backend/Scripts
+backend/pyvenv.cfg
+backend/Pipfile
+backend/Pipfile.lock
+backend/*.pyc
